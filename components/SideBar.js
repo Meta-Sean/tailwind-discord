@@ -17,7 +17,7 @@ export default function SideBar(){
 
 
 
-function SideBarIcon({ icon, text = 'tooltip 💡' }) {
+function SideBarIcon({ icon, text = 'much great 💡' }) {
     return (
         <div className="sidebar-icon group">
             {icon}
